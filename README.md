@@ -18,6 +18,7 @@ This repository is dedicated to a detailed study of different loss functions use
 ## File Structure
 
 - `Manjusha_sml-hw2.Rmd`: Comprehensive R Markdown document containing all project code, visualizations, and detailed comments explaining each step of the analysis.
+- `SML-HW2` : A knitted pdf file of the `Manjusha_sml-hw2.Rmd` markdown file. This file shows all the R code along with the respective output.
 
 ## Installation Instructions
 
