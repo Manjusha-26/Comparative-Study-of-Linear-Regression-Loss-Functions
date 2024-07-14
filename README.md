@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 ### Setup
 To set up the project environment:
-1. Clone this repository: https://github.com/m-g-manjusha/loss-functions-comparison.git
+1. Clone this repository: https://github.com/Manjusha-26/Comparative-Study-of-Linear-Regression-Loss-Functions
 2. Open the `Manjusha_sml-hw2.Rmd` file in RStudio.
 
 ## How to Use
